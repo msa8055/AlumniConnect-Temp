@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "admin-1",
+      "email": "admin@university.edu",
+      "password": "password123",
+      "firstName": "Admin",
+      "lastName": "User",
+      "role": "admin",
+      "status": "active",
+      "department": "Alumni Relations",
+      "permissions": [
+        "manage_users",
+        "manage_jobs",
+        "manage_events",
+        "view_reports",
+        "manage_settings"
+      ],
+      "createdAt": "2026-05-17T15:27:44.826Z",
+      "updatedAt": "2026-05-17T15:27:44.827Z",
+      "name": "Admin User",
+      "userId": "admin-1"
+    },
+    {
+      "id": "student-1779032130526",
+      "email": "m@gmail.com",
+      "password": "msa12345",
+      "firstName": "MSA",
+      "lastName": "9373",
+      "role": "student",
+      "status": "active",
+      "phone": "1234567899",
+      "createdAt": "2026-05-17T15:35:30.526Z",
+      "updatedAt": "2026-05-17T15:35:30.526Z",
+      "enrollmentYear": 2025,
+      "expectedGraduation": 2027,
+      "major": "Engineering",
+      "interests": [],
+      "name": "MSA 9373",
+      "userId": "student-1779032130526",
+      "department": "Engineering"
+    }
+  ],
+  "jobs": [],
+  "events": [],
+  "mentorships": [],
+  "conversations": [],
+  "messages": [],
+  "notifications": [],
+  "jobApplications": [],
+  "eventRegistrations": [],
+  "savedJobs": []
+}
